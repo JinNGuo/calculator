@@ -57,5 +57,3 @@ cleanButton.addEventListener('click', button => {
     calculator.updateDisplay()
 })
 
-
-console.log(number)
