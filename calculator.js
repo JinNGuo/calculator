@@ -18,6 +18,7 @@ class Calculator {
     appendNumber(number) {
         this.currentOperand = number
         // this.currentOperand = this.currentOperand.toString() + number.toString()
+        console.log(this.currentOperand)
     }
     
     chooseOperation(operation) {
